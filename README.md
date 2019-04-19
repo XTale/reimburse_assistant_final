@@ -17,3 +17,4 @@ $ open http://localhost:8010/
 安装egg-scripts模块：npm i egg-scripts --save
 项目启动：egg-scripts start --port=8010 --daemon --title=egg-server-showcase
 ```
+[egg]: https://eggjs.org
