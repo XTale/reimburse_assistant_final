@@ -16,5 +16,6 @@ $ open http://localhost:8010/
 ```bash
 安装egg-scripts模块：npm i egg-scripts --save
 项目启动：egg-scripts start --port=8010 --daemon --title=egg-server-showcase
+项目停止：egg-scripts stop [--title=egg-server]
 ```
 [egg]: https://eggjs.org
