@@ -17,12 +17,3 @@ $ open http://localhost:8010/
 安装egg-scripts模块：npm i egg-scripts --save
 项目启动：egg-scripts start --port=8010 --daemon --title=egg-server-showcase
 ```
-
-### npm scripts
-
-- Use `npm run lint` to check code style.
-- Use `npm test` to run unit test.
-- Use `npm run autod` to auto detect dependencies upgrade, see [autod](https://www.npmjs.com/package/autod) for more detail.
-
-
-[egg]: https://eggjs.org
