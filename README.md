@@ -1,2 +1,5 @@
-# reimburse_assistant_final
+## 简介
 琪琪报销助手最终版
+
+## 前序准备
+你需要在本地安装node和git.本项目技术栈为egg.js和axios.
