@@ -1,7 +1,3 @@
-# reimburse
-
-琪琪报销助手
-
 ## QuickStart
 
 <!-- add docs here for user -->
