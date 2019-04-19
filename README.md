@@ -8,6 +8,7 @@
 $ npm i
 $ npm run dev
 $ open http://localhost:8010/
+（本地开发端口8010可配置更换,具体查看egg.js官方文档）
 ```
 
 ### Deploy
