@@ -2,12 +2,12 @@
 
 <!-- add docs here for user -->
  egg文档直通车：[egg docs][egg] 
-### Development
+### 开发
 
 ```bash
 $ npm i
 $ npm run dev
-$ open http://localhost:7001/
+$ open http://localhost:8010/
 ```
 
 ### Deploy
