@@ -1,0 +1,65 @@
+.content {
+    height: 100%;
+    background: url('/public/image/background.jpg') no-repeat fixed top left;
+    background-size: cover;
+}
+.panel {
+    position: relative;
+    top: 120px;
+    margin: 0 auto;
+    width: 360px;
+    background: #eee;
+}
+.label {
+    display: inline-block;
+    width: 80px;
+    height: 30px;
+    color: #000;
+    text-align: right;
+}
+.btn {
+    display: block;
+    margin: 0 auto;
+}
+.notice {
+    position: fixed;
+    width: 400px;
+    height: 40px;
+    top: 0;
+    right: 0;
+    font-size: 20px;
+    background: -webkit-linear-gradient(left, #eb595c, #ffbba6, #fdf8f2);
+    background: -o-linear-gradient(left, #eb595c, #ffbba6, #fdf8f2);
+    background: -moz-linear-gradient(left, #eb595c, #ffbba6, #fdf8f2);
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.upflow {
+    animation: upflow 3s forwards;
+}
+.downflow {
+    animation: downflow 3s forwards;
+}
+@keyframes downflow {
+    from {height: 40px;}
+    to {height: 400px;}
+}
+@keyframes upflow {
+    from {height: 400px;}
+    to {height: 40px;}
+}
+
+.notice-content {
+    height: 0;
+    display: none;
+}
+ul {
+    margin: 0 5px 0 15px;
+    text-align: left;
+}
+li {
+    font-size: 12px;
+    list-style: none;
+}
