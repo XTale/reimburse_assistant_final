@@ -11,11 +11,11 @@ $ open http://localhost:8010/
 （本地开发端口8010可配置更换,具体查看egg.js官方文档）
 ```
 
-### Deploy
+### 应用部署
 
 ```bash
-$ npm start
-$ npm stop
+安装egg-scripts模块：npm i egg-scripts --save
+项目启动：egg-scripts start --port=8010 --daemon --title=egg-server-showcase
 ```
 
 ### npm scripts
