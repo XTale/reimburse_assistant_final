@@ -1,9 +1,7 @@
-## QuickStart
+## 快速入门
 
 <!-- add docs here for user -->
-
-see [egg docs][egg] for more detail.
-
+ egg文档直通车：[egg docs][egg] 
 ### Development
 
 ```bash
