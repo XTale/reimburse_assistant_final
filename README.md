@@ -17,5 +17,6 @@ $ open http://localhost:8010/
 安装egg-scripts模块：npm i egg-scripts --save
 项目启动：sudo npm run start
 项目停止：sudo npm run stop
+(具体脚本命令可以查看package.json下面的scripts字段.)
 ```
 [egg]: https://eggjs.org
